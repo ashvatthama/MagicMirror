@@ -58,9 +58,9 @@ var config = {
 			module: "currentweather",
 			position: "top_right",
 			config: {
-				location: "New York",
-				locationID: "",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
-				appid: "YOUR_OPENWEATHER_API_KEY"
+				location: "Jaipur",
+				locationID: "1269515",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
+				appid: "9b0345bfcfeb7f5fd24229e8bfae3a18"
 			}
 		},
 		{
@@ -68,9 +68,9 @@ var config = {
 			position: "top_right",
 			header: "Weather Forecast",
 			config: {
-				location: "New York",
-				locationID: "5128581",  //ID from https://openweathermap.org/city
-				appid: "YOUR_OPENWEATHER_API_KEY"
+				location: "Jaipur",
+				locationID: "1269515",  //ID from https://openweathermap.org/city
+				appid:"9b0345bfcfeb7f5fd24229e8bfae3a18"
 			}
 		},
 		{

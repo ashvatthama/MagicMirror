@@ -39,13 +39,13 @@ var config = {
 		},
 		{
 			module: "calendar",
-			header: "US Holidays",
+			header: "Indian Holidays",
 			position: "top_left",
 			config: {
 				calendars: [
 					{
 						symbol: "calendar-check",
-						url: "webcal://www.calendarlabs.com/templates/ical/US-Holidays.ics"
+						url: "webcal://www.calendarlabs.com/templates/ical/India-Holidays.ics"
 					}
 				]
 			}
